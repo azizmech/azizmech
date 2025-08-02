@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Abdelaziz Elshiekh</h1>
-<h3 align="center">Data Analyst👨🏼‍🏫.</h3>
+<h3 align="center">Data Analyst👨🏼‍🏫 ,Mechanical Project manager ,Web Developer and PLC developer.</h3>
 
 <br>
 
