@@ -14,7 +14,7 @@
 
  🏍️ I’m currently learning Web Development and other programming languages
 
- 🛰️ How to reach me **azizmech.dev@gmail.com**
+ 🛰️ How to reach me **azizmech@gmail.com**
 
  🎮 Fun fact :- Gamer is always READY.
 
